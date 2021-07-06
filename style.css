@@ -38,13 +38,13 @@ body{
     
 }
 .part-2{
-    position: relative;
+    position:relative;
     margin: 0 auto;
     display: flex;
-    margin: 3%;
+    margin: 2%;
     width: 95%;
     margin-bottom: 3%;
-    background-image: url(images/banner0.jpg);
+    background-image: url(images/banner5.jpg);
 }
 .top-4{
     padding-top: 120px;
@@ -97,6 +97,15 @@ body{
     margin-right: 3%;
     border-radius: 15px;
     padding-top: 30px;
+}
+
+.top-9{
+    background-color: rgb(12, 1, 32);
+    text-align: center;
+    
+}
+footer{
+    color: blanchedalmond;
 }
 
 
